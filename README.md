@@ -15,6 +15,6 @@ The objective is to calculate the number of bikes required each hour in order to
 
 
 
-I have deployed the above project in Heroku. You can have a glimpse of the page below. Please refresh the page once.
+I have deployed the above project in Heroku. You can have a glimpse of the page below. Please refresh the page once incase not opening.
 
 <img src="seoul_bike_demand.gif" title='Seoul Bike Demand' width="750" align="center">
