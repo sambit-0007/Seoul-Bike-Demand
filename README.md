@@ -7,8 +7,8 @@ It is important to make the rental bike available and accessible to the public a
 Eventually, providing the city with a stable supply of rental bikes becomes a major concern. 
 The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 Data used include weather information (Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall), the number of bikes rented per hour and date information
-Expected Outcome
+##### Expected Outcome
 As it is a Regression problem the expected outcome will vary each day. 
 The expected outcome depends on features like Temperature, Humidity, Windspeed, Visibility, Dewpoint, Solar radiation, Snowfall, Rainfall.
-Objective
+##### Objective
 The objective is to calculate the number of bikes required each hour in order to provide a smooth and stable supply of rental bikes
